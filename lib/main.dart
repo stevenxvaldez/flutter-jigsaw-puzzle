@@ -32,7 +32,6 @@ import 'src/style/snack_bar.dart';
 
 Future<void> main() async {
   if (kReleaseMode) {
-    // Don't log anything below warnings in production.
     Logger.root.level = Level.WARNING;
   }
   Logger.root.onRecord.listen((record) {
