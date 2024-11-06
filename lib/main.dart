@@ -47,9 +47,7 @@ Future<void> main() async {
   SystemChrome.setEnabledSystemUIMode(SystemUiMode.edgeToEdge, overlays: []);
 
   if (!kIsWeb && (Platform.isIOS || Platform.isAndroid)) {
-    /// Prepare the google_mobile_ads plugin so that the first ad loads
-    /// faster. This can be done later or with a delay if startup
-    /// experience suffers.
+
   }
   await SpUtil().init();
 
