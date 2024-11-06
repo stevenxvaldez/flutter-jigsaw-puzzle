@@ -16,3 +16,7 @@ App can run on Android iOS and Web ...
 ![](https://github.com/xfans/flutter_jigsaw_puzzle/blob/master/screenshot/real-puzzle01.webp)
 
 ![](https://github.com/xfans/flutter_jigsaw_puzzle/blob/master/screenshot/real-puzzle04.webp)
+
+# NOTE
+
+If you like the repo please star :) 
